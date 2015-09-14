@@ -1,2 +1,2 @@
 # gitKill
-add this line in branch AND.
+add this line in branch&.
